@@ -24,6 +24,7 @@ My goal is to build strong practical skills in:
 | Day 1 | Excel Pivot Tables                       | ✅ Completed |
 | Day 2 | Excel Data Filtering & Business Analysis | ✅ Completed |
 | Day 3 | Excel Sorting & Business Analysis        | ✅ Completed |
+| Day 4 | Excel Conditional Formatting             | ✅ Completed |
 
 ## 📂 Daily Learning Journey
 
@@ -35,11 +36,11 @@ Each day's folder includes:
 * 💡 Business Insights
 * 📈 Analysis Techniques
 * 📁 Project Files
-* 📸 Screenshots
+* 📸 Screenshots (when applicable)
 
 ## 🚀 Current Progress
 
-* ✅ Completed **3 out of 90** learning days
+* ✅ Completed **4 out of 90** learning days
 * 🎯 Currently learning **Microsoft Excel for Data Analysis**
 * 📈 Building a strong portfolio through hands-on projects
 * 💼 Documenting real-world business analysis using practical datasets
@@ -54,4 +55,4 @@ My goal is to consistently improve while building a portfolio that demonstrates 
 
 Thank you for visiting my repository and following my learning journey! 😊
 
-⭐ If you find this repository helpful, feel free to explore the projects and follow my journey as I continue learning and building new skills!
+⭐ If you find this repository helpful, feel free to explore the projects and follow my learning journey as I continue building my skills in data analytics.
