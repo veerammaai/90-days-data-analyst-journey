@@ -1,4 +1,4 @@
-# Day 6 – Excel Text Functions
+# Day-6 – Excel Text Functions
 
 ## 📌 Objective
 
