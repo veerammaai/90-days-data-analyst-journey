@@ -2,13 +2,15 @@
 
 Welcome to my public learning journey!
 
-I recently started my journey toward becoming a **Data Analyst**. Over the next **90 days**, I will learn, practice, and build real-world data analytics projects while documenting my progress here on GitHub.
+I'm currently on a 90-day journey to become a **job-ready Data Analyst** by learning industry-relevant tools, solving real-world business problems, and building a strong portfolio of projects.
+
+Every day, I practice new concepts, work on hands-on exercises, and document my progress here on GitHub.
 
 ---
 
 # 🎯 Goal
 
-My goal is to become a job-ready **Data Analyst** by developing practical skills in:
+My goal is to build practical data analytics skills in:
 
 - Microsoft Excel
 - SQL
@@ -18,6 +20,8 @@ My goal is to become a job-ready **Data Analyst** by developing practical skills
 - Data Visualization
 - Business Analysis
 - Git & GitHub
+
+By the end of this journey, I aim to have a portfolio that demonstrates my ability to clean, analyze, visualize, and communicate data effectively.
 
 ---
 
@@ -31,31 +35,32 @@ My goal is to become a job-ready **Data Analyst** by developing practical skills
 | Day 4 | Excel Conditional Formatting | ✅ Completed |
 | Day 5 | Excel Sales Performance Dashboard | ✅ Completed |
 | Day 6 | Excel Text Functions & Data Cleaning | ✅ Completed |
+| Day 7 | Excel Logical Functions | ✅ Completed |
 
 ---
 
-# 📂 Daily Learning Journey
+# 📂 Repository Structure
 
 Each day's folder includes:
 
 - 📚 Learning Notes
 - 💻 Practice Exercises
-- 📊 Business Questions
-- 💡 Business Insights
-- 📈 Analysis Techniques
-- 📁 Excel Project Files
+- 📊 Business Scenarios
+- 📈 Business Insights
+- 📁 Excel Workbooks
 - 📸 Screenshots (when applicable)
+- 📝 README Documentation
 
 ---
 
 # 🚀 Current Progress
 
-- ✅ Completed **6 out of 90** learning days
-- 📊 Built my first interactive **Excel Sales Performance Dashboard**
-- 🧹 Learned how to clean and standardize text data using Excel Text Functions
-- 🎯 Currently mastering **Microsoft Excel for Data Analysis**
-- 📈 Building a professional portfolio through hands-on business projects
-- 💼 Applying analytical thinking to real-world business datasets
+- ✅ Completed **7 of 90** learning days
+- 📊 Built my first Excel Sales Performance Dashboard
+- 🧹 Practiced cleaning and preparing business data
+- 🧠 Learned to apply logical functions to business scenarios
+- 📈 Building a professional portfolio through consistent daily projects
+- 💼 Strengthening analytical thinking using real-world datasets
 
 ---
 
@@ -65,9 +70,24 @@ Each day's folder includes:
 
 ### Data Analysis
 - Pivot Tables
-- Data Filtering
 - Data Sorting
+- Data Filtering
 - Conditional Formatting
+
+### Formulas & Functions
+- LEFT()
+- RIGHT()
+- MID()
+- LEN()
+- TRIM()
+- UPPER()
+- LOWER()
+- PROPER()
+- CONCAT()
+- IF()
+- AND()
+- OR()
+- NOT()
 
 ### Dashboard Development
 - KPI Cards
@@ -76,107 +96,109 @@ Each day's folder includes:
 - Dashboard Design
 - Business Insight Generation
 
-### Data Cleaning
-- LEFT()
-- RIGHT()
-- MID()
-- LEN()
-- TRIM()
-- UPPER()
-- LOWER()
-- PROPER()
-- CONCAT()
-
 ---
 
 # 📈 Featured Project
 
 ## 📊 Sales Performance Dashboard
 
-An interactive Excel dashboard built using the Superstore Sales dataset to analyze business performance.
+Built an interactive Excel dashboard using the Superstore Sales dataset to analyze business performance.
 
-### Dashboard Features
+### Dashboard Highlights
 
-### KPI Cards
-- Total Sales
-- Total Profit
-- Average Sales
-- Highest Sale
-- Lowest Sale
-- Total Orders
-- Total Customers
-
-### Interactive Charts
-- Sales by Region
-- Sales by Category
-- Yearly Sales Trend
-- Sales Distribution by Category (Donut Chart)
-
-### Interactive Filters
-- Region Slicer
-- Category Slicer
-
-### Key Business Insights
-
-- 📍 West region generated the highest sales.
-- 🏢 Office Supplies contributed **62%** of total sales.
-- 💻 Technology recorded the smallest sales contribution.
-- 📈 Sales peaked in **2023**.
-- 💰 Total sales exceeded **$2.3 million** across **10,194 orders**.
+- KPI Cards
+- Pivot Tables
+- Pivot Charts
+- Interactive Slicers
+- Sales Trend Analysis
+- Category & Region Analysis
+- Business Insights
 
 ---
 
 # 📚 Latest Learning
 
-## Day 6 – Excel Text Functions
+## Day 7 – Logical Functions
 
-Applied text functions to clean and prepare business data.
+Practiced Excel logical functions using a retail sales dataset.
 
-### Functions Practiced
+### Functions Covered
 
-- LEFT()
-- RIGHT()
-- MID()
-- LEN()
-- TRIM()
-- UPPER()
-- LOWER()
-- PROPER()
-- CONCAT()
+- IF()
+- AND()
+- OR()
+- NOT()
 
 ### Business Applications
 
-- Standardized customer names
-- Removed unnecessary spaces
-- Extracted information from Order IDs
-- Created full names
-- Improved data quality before analysis
+- Classified sales performance
+- Identified profitable and loss-making orders
+- Flagged records requiring review
+- Applied conditional logic to business data
 
 ---
 
-# 🎯 Roadmap
+# 🗺️ Learning Roadmap
 
-### Week 1
-- Excel Fundamentals
+## Phase 1 – Microsoft Excel (Days 1–25)
+
+### Excel Fundamentals
 - Pivot Tables
-- Filtering
-- Sorting
+- Sorting & Filtering
 - Conditional Formatting
-- Dashboard Creation
-
-### Week 2 (Current)
 - Text Functions
 - Logical Functions
 - Lookup Functions
-- Date Functions
-- Math & Statistical Functions
+- Date & Time Functions
+- Data Validation
+- Advanced Formulas
 
-Upcoming:
-- SQL
-- Power BI
-- Python
-- Statistics
-- Portfolio Projects
+### Excel Projects
+- Retail Sales Dashboard
+- Customer Sales Analysis
+- HR Analytics Dashboard
+- Financial Dashboard
+- Executive Dashboard
+
+---
+
+## Phase 2 – SQL
+
+- SQL Basics
+- Joins
+- Aggregate Functions
+- Window Functions
+- CTEs
+- Business Case Studies
+
+---
+
+## Phase 3 – Python
+
+- Python Fundamentals
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Automation
+
+---
+
+## Phase 4 – Power BI
+
+- Data Modeling
+- DAX
+- Interactive Dashboards
+- Business Reporting
+
+---
+
+## Phase 5 – Portfolio Projects
+
+- End-to-End Data Analysis Projects
+- Dashboard Development
+- Business Case Studies
+- Interview Preparation
 
 ---
 
@@ -184,22 +206,25 @@ Upcoming:
 
 This repository documents my journey from beginner to becoming a job-ready **Data Analyst**.
 
-Rather than only studying theory, I focus on solving practical business problems using real-world datasets. Every project helps strengthen my skills in:
+Instead of only studying theory, I focus on solving practical business problems using real-world datasets and documenting everything I learn.
+
+Each completed project strengthens my skills in:
 
 - Data Cleaning
 - Data Analysis
 - Dashboard Development
 - Business Reporting
+- Data Visualization
 - Analytical Thinking
 
-My goal is to build a portfolio that demonstrates practical experience and continuous improvement.
+My goal is to build a portfolio that reflects continuous learning, consistency, and practical experience.
 
 ---
 
 # 🚀 Connect With Me
 
-I'm documenting my learning journey every day on GitHub and sharing my progress on LinkedIn.
+I'm sharing my progress throughout this journey on both GitHub and LinkedIn.
 
-If you're interested in data analytics, feel free to follow my journey and connect with me!
+If you're interested in data analytics, feel free to follow my journey, connect with me, or explore my projects.
 
 ⭐ If you find this repository helpful, consider giving it a star!
